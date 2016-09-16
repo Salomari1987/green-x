@@ -1,6 +1,13 @@
 [![Stories in Ready](https://badge.waffle.io/Green-X/green-x.png?label=ready&title=Ready)](https://waffle.io/Green-X/green-x)
 # green-x
 #iGrow
+* Deployed link: green-x.herokuapp.com
+## Instructions:
+* Test User: Salah, Password: 123
+* Login
+* Click on Browse Plants
+* Click any plant name
+* Click add tree
 
 ##Introduction:
 
